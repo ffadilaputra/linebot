@@ -5,3 +5,8 @@ This is various chatbot for LINE
 ```
 npm install
 ```
+
+### Develop mode
+```
+npm run dev
+```
